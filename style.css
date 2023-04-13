@@ -1,0 +1,63 @@
+
+
+
+svg{
+width: 50px;
+height: 50px;
+stroke: black;
+stroke-width: 0.1px;
+fill: none;
+}
+svg:hover{
+
+  stroke: none;
+  fill:url(#paint0_linear_25368_713);
+  }
+
+
+/* .heart{
+
+fill: none;
+}
+defs{
+
+} */
+
+
+
+
+
+
+/* svg{
+  width: 250px;
+  fill: rgb(251, 245, 245);
+  stroke-width: 0.1px;
+} */
+
+
+
+
+
+
+
+
+/* 
+svg#heart {
+  height:70px;
+  width: 70px;
+}
+
+#heart-path {
+  fill: white;
+  stroke: black;
+  stroke-width: 0.3px;
+
+
+}
+
+#heart-path:hover {
+ 
+stroke: none;
+} */
+
+
